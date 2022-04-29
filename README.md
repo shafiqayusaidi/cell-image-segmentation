@@ -6,4 +6,4 @@ This project is mainly to detect cell nuclei from medical images using image seg
 
 The result is shown below.
 
-<img width="793" alt="Screenshot 2022-04-29 at 01 28 51" src="https://user-images.githubusercontent.com/58509210/165812571-0e2dc854-d0ba-4a20-968c-5edf1e4fcdf8.png">
+<img width="679" alt="Screenshot 2022-04-29 at 20 05 59" src="https://user-images.githubusercontent.com/58509210/165941169-2a75ff9c-c904-43a1-8eba-8f085084701a.png">
